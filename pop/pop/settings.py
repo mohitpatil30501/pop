@@ -25,7 +25,7 @@ SECRET_KEY = '^n&g+!*8bxd7nyr&b)9_$d17n6mn)91be3o98qw@*x*+9m&ib-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pop-mohit.herokuapp.com']
 
 
 # Application definition
